@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1654120957 source:c:\users\compu city\desktop\filters\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+
+1654120749 c:\users\compu city\desktop\filters\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1654120749 c:\users\compu city\desktop\filters\bmplib.h
+
